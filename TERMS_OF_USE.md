@@ -51,6 +51,4 @@ These Terms are governed by the laws of _Your Jurisdiction_, excluding its confl
 We may update these Terms at any time. Continued use after changes become effective constitutes acceptance. We will notify you in-App or via TestFlight notes when we make material changes.
 
 ## 14. Contact
-Questions? Email us at _support@example.com_.
-
-*These Terms are provided as a template and should be reviewed by qualified legal counsel before publication.*
+Questions? Email us at 3dlight.mail@gmail.com
