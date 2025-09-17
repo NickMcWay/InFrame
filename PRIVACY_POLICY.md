@@ -35,7 +35,7 @@ We do **not** collect crash logs, performance analytics, contact information, or
 All networking occurs through Apple’s and Google’s standard encrypted channels (HTTPS/TLS). Because data stays on your device, we do not add extra encryption layers beyond those platform safeguards.
 
 ## 7. Children
-The App is not directed to children under 13 (or the age required by your jurisdiction). If you believe a child has used the App and interacted with ads, contact us and we will work with Google to address the issue.
+The App is not directed to children under 9 (or the age required by your jurisdiction). If you believe a child has used the App and interacted with ads, contact us and we will work with Google to address the issue.
 
 ## 8. Changes to This Policy
 We may update this policy as features evolve. Significant changes will be announced within the App or via TestFlight notes, and the "Last updated" date will change.
