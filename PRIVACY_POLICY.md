@@ -1,9 +1,9 @@
-# Cofy Privacy Policy
+# InFrame Privacy Policy
 
 **Last updated:** September 16, 2025
 
 ## 1. Introduction
-Cofy ("App," "we," "us," or "our") lets you capture context selfies by pairing a scene photo with your reaction shot. This privacy policy explains what information the App touches, how it is used, and what choices you have while using the current beta build.
+InFrame ("App," "we," "us," or "our") lets you capture context selfies by pairing a scene photo with your reaction shot. This privacy policy explains what information the App touches, how it is used, and what choices you have while using the current beta build.
 
 ## 2. Information We Process
 
