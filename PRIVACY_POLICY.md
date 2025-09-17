@@ -14,7 +14,7 @@ InFrame ("App," "we," "us," or "our") lets you capture context selfies by pairin
 | Precise Location (optional) | Collected when you grant Location permission and capture a photo | Attach a place name or rounded coordinates to your composites so you can remember where they were taken | No. Stored with the photo on device. You can disable location tagging in Settings. |
 | App Preferences & Counters | Saved locally in Apple’s `UserDefaults` | Remember onboarding state, premium status, and the ad frequency counter for interstitial placement | No. Stored locally on device. |
 | Advertising Data | Automatically collected by Google Mobile Ads SDK | Deliver banner and interstitial ads, measure performance, and comply with attribution frameworks (e.g., SKAdNetwork) | Yes. Sent to Google and its advertising partners; may be used for tracking across apps and websites. |
-
+| In-App Purchases | Through Apple StoreKit | Process payments and maintain purchase entitlements | Yes. Apple receives transaction data as required to complete purchases. |
 
 We do not collect crash logs, performance analytics, contact information, or purchase history beyond what Apple provides to you and us for transaction validation.
 
