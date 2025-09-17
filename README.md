@@ -27,4 +27,3 @@ InFrame is a SwiftUI app that captures a **context selfie**: it shoots the scene
 - [Recommended In-App Disclosures](IN_APP_DISCLOSURES.md)
 
 ---
-This project is provided for educational purposes. Add a license if you plan to distribute it.
