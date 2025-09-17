@@ -1,6 +1,6 @@
-# Cofy
+# InFrame
 
-Cofy is a small SwiftUI demo app that captures a **context selfie**: it shoots the scene with the back camera, snaps a selfie with the front camera, and automatically composites the two into a single photo saved to your library.
+InFrame is a SwiftUI app that captures a **context selfie**: it shoots the scene with the back camera, snaps a selfie with the front camera, and automatically composites the two into a single photo saved to your library.
 
 ## Features
 - **Camera** – Switches between rear and front cameras to capture the scene and your selfie, then saves the composite (and optionally the originals) to the photo library.
@@ -10,16 +10,9 @@ Cofy is a small SwiftUI demo app that captures a **context selfie**: it shoots t
 
 ## Getting Started
 ### Requirements
-- iOS 16 or later
+- iOS 17 or later
 - Xcode 15 or later
 - Swift 6.1
-
-### Building
-1. Clone the repository.
-2. Open `Cofy.xcodeproj` in Xcode.
-3. Add the [Google Mobile Ads SDK](https://developers.google.com/admob/ios/quick-start) via Swift Package Manager.
-4. Replace the placeholder `GADApplicationIdentifier`, `GADBannerUnitID`, and `GADInterstitialUnitID` values in `Cofy/Info.plist` with your own IDs.
-5. Build and run on a device or simulator with camera and photo-library permissions.
 
 ## Usage
 1. Launch the app and allow camera access.
@@ -27,22 +20,6 @@ Cofy is a small SwiftUI demo app that captures a **context selfie**: it shoots t
 3. Grant photo-library access if prompted.
 4. Browse your composites in the **Gallery** tab.
 5. Adjust preferences in **Settings**.
-
-## Project Structure
-- `CaptureView.swift` – Camera interface and capture logic.
-- `GalleryView.swift` – Displays saved context selfies.
-- `SettingsView.swift` & `Settings.swift` – User preferences for saving originals.
-- `PairStore.swift` – Persists identifiers for captured pairs.
-- `ContextSelfieComposer.swift` – Builds the composite image.
-- `PhotoSaver+IDs.swift` – Saves images and returns asset identifiers.
-- `AdBannerView.swift` – Bridges a `GADBannerView` into SwiftUI.
-- `InterstitialAdManager.swift` – Handles loading and presentation of full-screen interstitial ads and upgrade prompt.
-
-## App Store Considerations
-- Provide app icons, launch screens, and screenshots.
-- Supply a privacy policy and ensure all required `Info.plist` usage descriptions are filled in.
-- Configure in-app purchases in App Store Connect for the ad-free upgrade.
-- Verify compliance with [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/).
 
 ### Privacy & Legal Templates
 - [Privacy Policy](PRIVACY_POLICY.md)
