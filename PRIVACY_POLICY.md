@@ -1,11 +1,12 @@
-# InFrame Privacy Policy
+InFrame Privacy Policy
 
-**Last updated:** September 16, 2025
+Effective date / Last updated: September 16, 2025
 
-## 1. Introduction
-InFrame ("App," "we," "us," or "our") lets you capture context selfies by pairing a scene photo with your reaction shot. This privacy policy explains what information the App touches, how it is used, and what choices you have while using the current beta build.
+1. Introduction
 
-## 2. Information We Process
+InFrame ("App," "we," "us," or "our") lets you capture context selfies by pairing a scene photo with your reaction shot. This privacy policy explains what information we process, why, and the choices you have while using the current beta build.
+
+2. Information We Process
 
 | Data Type | How It Is Obtained | Purpose | Shared With Third Parties |
 |-----------|--------------------|---------|---------------------------|
@@ -14,33 +15,59 @@ InFrame ("App," "we," "us," or "our") lets you capture context selfies by pairin
 | App Preferences & Counters | Saved locally in Apple’s `UserDefaults` | Remember onboarding state, premium status, and the ad frequency counter for interstitial placement | No. Stored locally on device. |
 | Advertising Data | Automatically collected by Google Mobile Ads SDK | Deliver banner and interstitial ads, measure performance, and comply with attribution frameworks (e.g., SKAdNetwork) | Yes. Sent to Google and its advertising partners; may be used for tracking across apps and websites. |
 
-We do **not** collect crash logs, performance analytics, contact information, or purchase history. StoreKit transactions are used only to update your local entitlement (for example, to remove ads) and are not transmitted to Google.
 
-## 3. Third-Party Services
-- **Google Mobile Ads (AdMob).** Provides banner and interstitial ads. Google may collect device identifiers (including the IDFA if you grant tracking permission), approximate or precise location if available, and ad interaction data. Review Google’s privacy policy at <https://policies.google.com/privacy>.
-- The App does not integrate additional analytics, social, or cloud-storage providers in this beta.
+We do not collect crash logs, performance analytics, contact information, or purchase history beyond what Apple provides to you and us for transaction validation.
 
-## 4. Your Choices
-- **Permissions.** You can revoke camera, photo library, or location access in iOS Settings at any time. Some features will be limited without these permissions.
-- **Tracking.** If prompted by Apple’s App Tracking Transparency dialog, you may decline tracking. We honor Apple’s choice and request Google’s limited ads mode where available.
-- **Photo & Location Deletion.** Delete items from the Gallery or Trash to remove them. Deleting the App removes all locally stored content.
-- **Do Not Sell or Share.** We do not sell personal information. If you are in a jurisdiction with specific privacy rights (for example, GDPR or CCPA), contact us to exercise access or deletion rights.
+3. Legal Basis (GDPR)
 
-## 5. Data Retention
-- Photos, composites, and metadata remain on your device until you delete them or uninstall the App.
-- Items moved to the Trash are automatically purged after 30 days or sooner if you empty the Trash manually.
-- Preferences and entitlement flags persist until you reset the App or delete it.
+For users in the European Economic Area (EEA) or UK, we rely on:
 
-## 6. Security
-All networking occurs through Apple’s and Google’s standard encrypted channels (HTTPS/TLS). Because data stays on your device, we do not add extra encryption layers beyond those platform safeguards.
+Consent for optional location tagging and for advertising identifiers (IDFA).
 
-## 7. Children
-The App is not directed to children under 9 (or the age required by your jurisdiction). If you believe a child has used the App and interacted with ads, contact us and we will work with Google to address the issue.
+Legitimate interests for essential local storage of preferences and entitlement flags.
 
-## 8. Changes to This Policy
-We may update this policy as features evolve. Significant changes will be announced within the App or via TestFlight notes, and the "Last updated" date will change.
+4. Third-Party Services
 
-## 9. Contact Us
-Wayman Design
+Google Mobile Ads (AdMob). Provides banner and interstitial ads. Google may collect device identifiers (including the IDFA if you grant tracking permission), IP address, coarse or precise location, and ad-interaction data. Data may be transferred internationally under Google’s Standard Contractual Clauses. Google’s policy: https://policies.google.com/privacy
+.
 
+Apple StoreKit & App Store. Handles in-app purchases and may collect limited purchase and diagnostics data per Apple’s privacy policy.
+
+5. Your Rights & Choices
+
+Permissions. Revoke camera, photo library, or location access in iOS Settings at any time.
+
+Tracking & Ads. You can deny App Tracking Transparency prompts. We request Google’s “limited ads mode” when tracking is declined.
+
+Access / Deletion Requests. If you reside in the EEA, UK, or California, you may request access to or deletion of any personal data we control (typically only purchase records and ad identifiers). Email us as described in Section 10.
+
+Do Not Sell or Share (CCPA/CPRA). We do not sell personal information or share it for cross-context behavioral advertising.
+
+6. Data Retention
+
+Photos, composites, and metadata remain on your device until you delete them or uninstall the App.
+
+Preferences and entitlement flags persist until you reset or delete the App.
+
+StoreKit purchase records remain with Apple subject to their retention schedules.
+
+7. Security
+
+All communication with Apple and Google uses encrypted HTTPS/TLS. Because most data stays on your device, we do not add additional encryption layers.
+
+8. Children
+
+The App is not directed to children under 13 or the digital-consent age in your jurisdiction. If you believe a child has used the App and interacted with ads, contact us and we will work with Google to address the issue.
+
+9. International Users
+
+Information processed by Google or Apple may be transferred and stored in countries outside your own, including the United States. These transfers use appropriate safeguards such as Standard Contractual Clauses.
+
+10. Changes
+
+We may update this policy as features evolve. Significant changes will be announced within the App or via TestFlight notes, and the “Last updated” date will change.
+
+11. Contact Us
+
+Data Controller: Wayman Design
 Email: 3DLight.mail@gmail.com
