@@ -1,9 +1,9 @@
-# Cofy Terms of Use
+# InFrame Terms of Use
 
 **Effective date:** September 16, 2025
 
 ## 1. Acceptance
-By installing, accessing, or using Cofy ("App"), you agree to these Terms of Use ("Terms"). If you do not agree, do not use the App.
+By installing, accessing, or using InFrame ("App"), you agree to these Terms of Use ("Terms"). If you do not agree, do not use the App.
 
 ## 2. Beta Status
 The App is currently provided as a beta preview. Features may change, may contain bugs, and your content may be lost. We make no guarantees of uptime, data retention, or compatibility.
