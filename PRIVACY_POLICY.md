@@ -41,9 +41,6 @@ The App is not directed to children under 9 (or the age required by your jurisdi
 We may update this policy as features evolve. Significant changes will be announced within the App or via TestFlight notes, and the "Last updated" date will change.
 
 ## 9. Contact Us
-_Your Company or Developer Name_
+Wayman Design
 
-Email: _support@example.com_
-Postal Address: _Optional_
-
-*This document is provided for informational purposes and should be reviewed by qualified legal counsel before public release.*
+Email: 3DLight.mail@gmail.com
