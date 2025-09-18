@@ -5,7 +5,7 @@
 ## 1. Introduction
 InFrame (the "App") is a mobile photography experience created and operated by Wayman Design / 3D Light ("Wayman Design," "we," "us," or "our"). The App lets you capture a scene with the rear camera, take a selfie with the front camera, and automatically combine the two into a single composite image. This Privacy Policy explains how we handle personal data when you use InFrame.
 
-Wayman Design / 3D Light is the data controller for the personal data processed through the App for users in the European Economic Area (EEA), the United Kingdom, and Switzerland. You can contact us at **privacy@waymandesign.com** with any privacy questions or to exercise your rights.
+Wayman Design / 3D Light is the data controller for the personal data processed through the App for users in the European Economic Area (EEA), the United Kingdom, and Switzerland. You can contact us at **3dlight.mail@gmail.com** with any privacy questions or to exercise your rights.
 
 This Privacy Policy applies to all users worldwide. Certain sections highlight additional rights that apply specifically to residents of the EEA/UK (under the GDPR/UK GDPR) and California (under the CCPA/CPRA).
 
