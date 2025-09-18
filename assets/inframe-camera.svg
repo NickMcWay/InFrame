@@ -1,0 +1,33 @@
+<svg width="320" height="560" viewBox="0 0 320 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cameraBody" x1="40" y1="32" x2="280" y2="528" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2F2A83" />
+      <stop offset="1" stop-color="#4D44C4" />
+    </linearGradient>
+    <linearGradient id="cameraSky" x1="92" y1="126" x2="228" y2="258" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#63B8FF" />
+      <stop offset="1" stop-color="#87E0FF" />
+    </linearGradient>
+    <linearGradient id="cameraGround" x1="86" y1="252" x2="238" y2="392" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5AEBBC" />
+      <stop offset="1" stop-color="#35C39B" />
+    </linearGradient>
+  </defs>
+  <rect x="26" y="20" width="268" height="520" rx="42" fill="#F7F5FF" />
+  <rect x="48" y="86" width="224" height="388" rx="28" fill="url(#cameraBody)" />
+  <rect x="68" y="112" width="184" height="124" rx="20" fill="url(#cameraSky)" />
+  <rect x="68" y="236" width="184" height="104" rx="20" fill="url(#cameraGround)" />
+  <circle cx="160" cy="160" r="28" fill="#F9FAFF" opacity="0.45" />
+  <path
+    d="M188 314c14-24 40-32 56-32v82c-16 0-42 8-56 32-14-24-40-32-56-32v-82c16 0 42 8 56 32Z"
+    fill="#1B144B"
+    opacity="0.65"
+  />
+  <rect x="68" y="348" width="184" height="104" rx="20" fill="#1F1A5A" />
+  <rect x="92" y="368" width="56" height="12" rx="6" fill="#5149C6" />
+  <rect x="92" y="392" width="92" height="12" rx="6" fill="#655DEC" opacity="0.8" />
+  <circle cx="228" cy="420" r="18" fill="#FF9F6A" />
+  <rect x="120" y="464" width="80" height="24" rx="12" fill="#F1EEFF" opacity="0.7" />
+  <rect x="132" y="64" width="56" height="8" rx="4" fill="#E6E2FF" />
+  <circle cx="160" cy="48" r="10" fill="#EAE6FF" />
+</svg>

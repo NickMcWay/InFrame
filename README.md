@@ -21,6 +21,11 @@ InFrame is a SwiftUI app that captures a **context selfie**: it shoots the scene
 4. Browse your composites in the **Gallery** tab.
 5. Adjust preferences in **Settings**.
 
+## Marketing Page
+Share InFrame with your audience using the included landing page located at [`index.html`](index.html). The page highlights the
+core experience, showcases previews of the app, and links directly to the App Store listing so visitors can download the app
+immediately.
+
 ### Privacy & Legal Templates
 - [Privacy Policy](PRIVACY_POLICY.md)
 - [Terms of Use](TERMS_OF_USE.md)
