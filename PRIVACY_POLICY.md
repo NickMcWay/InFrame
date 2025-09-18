@@ -77,7 +77,7 @@ If you are located in the EEA, Switzerland, or the UK, you have the right to:
 - Request data portability in a commonly used, machine-readable format.
 - Withdraw your consent at any time, without affecting the lawfulness of processing before withdrawal.
 
-To exercise these rights, email **privacy@waymandesign.com** with your request and the country you reside in. We may need to verify your identity before responding. You also have the right to lodge a complaint with your local supervisory authority. For example, users in the Netherlands may contact the Dutch Data Protection Authority (Autoriteit Persoonsgegevens) at <https://autoriteitpersoonsgegevens.nl/>.
+To exercise these rights, email **3dlight.mail@gmail.com** with your request and the country you reside in. We may need to verify your identity before responding. You also have the right to lodge a complaint with your local supervisory authority. For example, users in the Netherlands may contact the Dutch Data Protection Authority (Autoriteit Persoonsgegevens) at <https://autoriteitpersoonsgegevens.nl/>.
 
 ### Rights for California Residents
 If you are a California resident, you have the right to:
@@ -89,7 +89,7 @@ If you are a California resident, you have the right to:
 - Limit the use and disclosure of sensitive personal information (we only process sensitive data, such as precise location, with your consent and to provide the requested service).
 - Not receive discriminatory treatment for exercising your privacy rights.
 
-To submit a request, email **privacy@waymandesign.com** and indicate you are a California resident. If you submit a deletion request, you can also delete local data directly by removing it within the App or uninstalling the App. We will verify your identity using information associated with your Apple ID or recent App activity. Authorized agents may submit requests on your behalf when accompanied by written authorization.
+To submit a request, email **3dlight.mail@gmail.com** and indicate you are a California resident. If you submit a deletion request, you can also delete local data directly by removing it within the App or uninstalling the App. We will verify your identity using information associated with your Apple ID or recent App activity. Authorized agents may submit requests on your behalf when accompanied by written authorization.
 
 ### Other Choices Available to All Users
 - **Permissions:** You can change camera, microphone, photo library, or location permissions at any time in **Settings > Privacy & Security** on your device. Some features will be unavailable without these permissions.
@@ -97,7 +97,7 @@ To submit a request, email **privacy@waymandesign.com** and indicate you are a C
 - **Data Deletion:** Delete photos and composites within the App or Photos app, or uninstall the App to remove local data.
 
 ## 8. Children’s Privacy
-InFrame is not directed to children under 13, or under 16 in jurisdictions where a higher age threshold applies. We do not knowingly collect personal data from children. If we learn that a child has provided personal data through the App, we will delete the data or take steps to obtain verifiable parental consent. Parents or guardians who believe their child has used the App without authorization should contact us at **privacy@waymandesign.com**.
+InFrame is not directed to children under 13, or under 16 in jurisdictions where a higher age threshold applies. We do not knowingly collect personal data from children. If we learn that a child has provided personal data through the App, we will delete the data or take steps to obtain verifiable parental consent. Parents or guardians who believe their child has used the App without authorization should contact us at **3dlight.mail@gmail.com**.
 
 ## 9. Security Measures
 We implement technical and organizational measures to protect personal data:
@@ -128,7 +128,7 @@ If you continue to use the App after the updated policy becomes effective, you a
 If you have questions, concerns, or feedback about this Privacy Policy, please contact us:
 
 **Wayman Design / 3D Light**  
-Email: **privacy@waymandesign.com**  
+Email: **3dlight.mail@gmail.com**  
 Postal Mail: 1321 Upland Drive #7327, Houston, TX 77043, USA (for written privacy inquiries)
 
 We will respond to your request as soon as reasonably possible and within the time frames required by applicable law.
