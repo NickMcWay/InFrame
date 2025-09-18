@@ -32,6 +32,19 @@ footer {
   margin: 0 auto;
 }
 
+.hero__content {
+  display: flex;
+  flex-direction: column;
+}
+
+.hero__logo {
+  width: 80px;
+  height: 80px;
+  border-radius: 20px;
+  box-shadow: var(--shadow-soft);
+  margin-bottom: 28px;
+}
+
 .hero__headline {
   font-size: clamp(2.5rem, 6vw, 4rem);
   line-height: 1.1;
