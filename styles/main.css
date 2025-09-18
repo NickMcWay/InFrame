@@ -96,11 +96,16 @@ footer {
   color: rgba(244, 246, 251, 0.7);
 }
 
+.hero__visual {
+  display: flex;
+  justify-content: center;
+}
+
 .hero__visual img,
 .hero__device {
   max-width: 100%;
   height: auto;
-  max-height: 60vh;      /* limit to 60% of viewport height */
+  max-height: 50vh;      /* limit to 50% of viewport height */
   object-fit: contain;   /* keep aspect ratio */
 }
 
@@ -110,6 +115,7 @@ footer {
   padding: 1.5rem;
   backdrop-filter: blur(18px);
   box-shadow: 0 24px 60px rgba(10, 15, 30, 0.5);
+  max-width: 420px;
 }
 
 .section {
