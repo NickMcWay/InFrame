@@ -105,7 +105,7 @@ footer {
 .hero__device {
   max-width: 100%;
   height: auto;
-  max-height: 50vh;      /* limit to 50% of viewport height */
+  max-height: 70vh;      /* limit to 50% of viewport height */
   object-fit: contain;   /* keep aspect ratio */
 }
 
