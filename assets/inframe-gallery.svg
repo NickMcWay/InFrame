@@ -1,0 +1,35 @@
+<svg width="320" height="560" viewBox="0 0 320 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="galleryBody" x1="32" y1="48" x2="288" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#262155" />
+      <stop offset="1" stop-color="#3C2E92" />
+    </linearGradient>
+    <linearGradient id="galleryTile1" x1="92" y1="160" x2="156" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF6F8D" />
+      <stop offset="1" stop-color="#FF9D6F" />
+    </linearGradient>
+    <linearGradient id="galleryTile2" x1="164" y1="160" x2="228" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6D93FF" />
+      <stop offset="1" stop-color="#85C8FF" />
+    </linearGradient>
+    <linearGradient id="galleryTile3" x1="92" y1="248" x2="156" y2="328" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7D7CFF" />
+      <stop offset="1" stop-color="#B38AFF" />
+    </linearGradient>
+    <linearGradient id="galleryTile4" x1="164" y1="248" x2="228" y2="328" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#48E0C6" />
+      <stop offset="1" stop-color="#2FB0A8" />
+    </linearGradient>
+  </defs>
+  <rect x="24" y="28" width="272" height="504" rx="44" fill="#FBF9FF" />
+  <rect x="48" y="92" width="224" height="376" rx="30" fill="url(#galleryBody)" />
+  <rect x="84" y="138" width="72" height="88" rx="18" fill="url(#galleryTile1)" />
+  <rect x="164" y="138" width="72" height="88" rx="18" fill="url(#galleryTile2)" />
+  <rect x="84" y="226" width="72" height="88" rx="18" fill="url(#galleryTile3)" />
+  <rect x="164" y="226" width="72" height="88" rx="18" fill="url(#galleryTile4)" />
+  <rect x="84" y="314" width="152" height="80" rx="20" fill="#201B54" opacity="0.65" />
+  <rect x="84" y="410" width="152" height="32" rx="12" fill="#EAE6FF" opacity="0.55" />
+  <circle cx="220" cy="426" r="12" fill="#3A32F0" />
+  <rect x="132" y="60" width="56" height="8" rx="4" fill="#E6E2FF" />
+  <circle cx="160" cy="44" r="10" fill="#EAE6FF" />
+</svg>
