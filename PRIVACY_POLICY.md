@@ -129,7 +129,6 @@ If you have questions, concerns, or feedback about this Privacy Policy, please c
 
 **Wayman Design / 3D Light**  
 Email: **3dlight.mail@gmail.com**  
-Postal Mail: 1321 Upland Drive #7327, Houston, TX 77043, USA (for written privacy inquiries)
 
 We will respond to your request as soon as reasonably possible and within the time frames required by applicable law.
 
