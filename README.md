@@ -5,7 +5,7 @@ InFrame is a SwiftUI app that captures a **context selfie**: it shoots the scene
 ## Features
 - **Camera** – Switches between rear and front cameras to capture the scene and your selfie, then saves the composite (and optionally the originals) to the photo library.
 - **Gallery** – Shows previously captured context selfies in a grid. Tap any item for a full-screen preview or explicitly request photo-library access.
-- **Settings** – Toggle whether the original scene and selfie photos should also be kept.
+- **Settings** – Toggle whether the original scene and selfie photos should also be kept, and choose between a 3×3 or 5×5 gallery grid.
 - **Advertisement** – Displays a Google AdMob banner at the bottom of the gallery and periodically shows a full-screen interstitial ad with an option to remove ads.
 
 ## Getting Started
