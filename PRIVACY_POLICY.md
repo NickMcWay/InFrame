@@ -1,6 +1,6 @@
 # InFrame Privacy Policy
 
-**Last updated:** September 18, 2025
+**Last updated:** October 12, 2025
 
 ## 1. Introduction
 InFrame (the "App") is a mobile photography experience created and operated by Wayman Design / 3D Light ("Wayman Design," "we," "us," or "our"). The App lets you capture a scene with the rear camera, take a selfie with the front camera, and automatically combine the two into a single composite image. This Privacy Policy explains how we handle personal data when you use InFrame.
@@ -19,6 +19,7 @@ We strive to keep the data we handle to a minimum. The table below summarizes th
 | App Preferences & Entitlements | In-app settings (e.g., whether to save originals), onboarding state, ad frequency counter, subscription/upgrade status | Your in-app selections and Apple StoreKit responses | Remember your choices, determine whether to display ads, apply ad-free upgrades | Stored locally using Apple’s secure sandbox (UserDefaults, Keychain). Not transmitted to our servers | None |
 | Purchase & Subscription Records | Transaction identifiers, product identifiers, purchase date, subscription status, refunds | Apple StoreKit and App Store receipts | Validate purchases, enable premium features, handle support requests, meet accounting and legal obligations | Stored on your device and within Apple’s systems. May be temporarily processed by Wayman Design when you contact support | Apple (United States, EU, and other regions where Apple operates App Store infrastructure); payment details remain with Apple |
 | Advertising Identifiers & Event Data (optional) | Advertising ID (IDFA, if you grant tracking permission), device information, IP address, app interaction events, ad impressions/clicks | Automatically collected by the Google Mobile Ads SDK | Deliver ads, limit frequency, measure performance, detect fraud, comply with Apple’s SKAdNetwork | Transmitted securely to Google’s AdMob servers. Not stored by Wayman Design | Google LLC and its affiliated advertising partners (may process data in the United States, EU/EEA, and other countries where Google has facilities) |
+| **App Usage Analytics (Firebase Analytics)** | Aggregated app interaction events (screen views, feature usage, session duration), device model, OS version, app version, region-level location | Automatically collected by the Firebase Analytics SDK (Google LLC) | Understand how users interact with the App, improve usability and performance, detect bugs, and measure engagement | Stored locally and transmitted in anonymized form to Firebase servers | Google LLC (data centers in the United States, EU, and globally under Standard Contractual Clauses) |
 | Diagnostics & Error Logs (optional) | Crash reports, performance metrics, device model, OS version | Apple if you opt in to share crash reports, or Google if aggregated diagnostics are enabled | Maintain and improve stability, investigate and resolve issues | Stored locally and transmitted to Apple and/or Google subject to your opt-in choices. Accessed by Wayman Design only in aggregated form | Apple Inc. (global infrastructure) and Google LLC (global infrastructure) |
 
 We do **not** intentionally collect contact lists, account passwords, or the contents of personal communications. We do not sell or share your personal information for cross-context behavioral advertising.
@@ -33,6 +34,7 @@ Where the GDPR or UK GDPR applies, we rely on the following legal bases:
 | App Preferences & Entitlements | Our legitimate interests in providing a consistent user experience and preventing fraud |
 | Purchase & Subscription Records | Performance of a contract and compliance with legal obligations (tax and accounting requirements) |
 | Advertising Identifiers & Event Data | Your consent for personalized advertising; our legitimate interests for non-personalized, contextual advertising and frequency capping |
+| **App Usage Analytics (Firebase Analytics)** | Our legitimate interests in analyzing aggregated usage trends and improving the App (data is anonymized and not used for tracking) |
 | Diagnostics & Error Logs | Our legitimate interests in maintaining and improving the App, subject to any consent you provide through Apple or Google |
 
 If we need to process your personal data for a new purpose, we will update this Privacy Policy and, where required, request your consent.
@@ -42,6 +44,7 @@ We work with carefully selected service providers to support the App:
 
 - **Apple Inc. (StoreKit, App Store, iCloud Photos, device services).** Handles purchases, in-app entitlements, and optional photo syncing or backups you initiate. Apple may process your data in the United States or other regions where it operates.
 - **Google LLC (Google Mobile Ads / AdMob).** Provides banner and interstitial advertising, fraud prevention, and aggregated performance metrics. Google stores and processes data on servers located worldwide.
+- **Google LLC (Firebase Analytics).** Collects anonymous, aggregated usage statistics to help us understand how users interact with the App and to improve performance. Firebase Analytics data is not used to identify or track individuals across other apps or websites.
 
 When data leaves your home country, it may be processed in countries that do not provide the same level of data protection as your jurisdiction. Where the GDPR requires it, we rely on European Commission Standard Contractual Clauses, Apple’s and Google’s published Data Processing Agreements, and other safeguards to protect personal data transferred outside the EEA/UK.
 
@@ -50,6 +53,7 @@ We do not permit our processors to use your personal information for their own i
 ## 5. Cookies, SDKs, and Tracking Technologies
 InFrame does not set cookies within the App. However, embedded SDKs may use similar technologies:
 
+- **Firebase Analytics SDK** records anonymous usage statistics (e.g., which screens are viewed and how long sessions last) to improve the App. This data is **aggregated and not linked** to identifiable users or other apps, and is **not used for tracking** or personalized advertising.
 - **Google Mobile Ads SDK** may store identifiers on your device and access Apple’s Advertising Identifier (IDFA) with your permission. This enables ad delivery, personalization (if you consent), and measurement.
 - **Apple App Tracking Transparency (ATT)** prompts you to grant or deny tracking permission. If you decline, Google AdMob is instructed to show non-personalized ads and restricts data use accordingly.
 - You can reset or limit ad tracking by visiting **Settings > Privacy & Security > Tracking** on iOS, or enable Limit Ad Tracking. You can also disable personalized ads within the App’s settings where available.
