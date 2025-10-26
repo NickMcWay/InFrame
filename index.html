@@ -128,6 +128,37 @@
         </div>
       </section>
 
+      <section class="section detail-view">
+        <div class="detail-view__layout">
+          <div class="detail-view__copy">
+            <p class="section__eyebrow">Detail view</p>
+            <h2 class="section__title">See every capture on its own terms</h2>
+            <p class="detail-view__body">
+              Open any composite to inspect the full scene or revisit the selfie that made the moment. The new detail view toggle
+              lets you flip between the originals without losing your place in the story.
+            </p>
+            <button class="detail-view__toggle" type="button" aria-pressed="false" aria-label="Show the selfie capture">
+              Show Selfie
+            </button>
+          </div>
+          <div class="detail-view__preview" data-state="scene">
+            <img
+              src="assets/inframe-hero.jpg"
+              alt="Selfie capture displayed within the detail view"
+              class="detail-view__image detail-view__image--selfie"
+              aria-hidden="true"
+            />
+            <img
+              src="assets/inframe-gallery.jpg"
+              alt="Scene capture displayed within the detail view"
+              class="detail-view__image detail-view__image--scene is-active"
+              aria-hidden="false"
+            />
+            <span class="detail-view__badge">Scene</span>
+          </div>
+        </div>
+      </section>
+
       <section class="section">
         <p class="section__eyebrow">Creators love the context</p>
         <h2 class="section__title">Reactions from the first shoots</h2>
@@ -236,6 +267,37 @@
     <script>
       const yearElement = document.getElementById("year");
       yearElement.textContent = new Date().getFullYear();
+
+      const detailToggle = document.querySelector(".detail-view__toggle");
+      const detailPreview = document.querySelector(".detail-view__preview");
+
+      if (detailToggle && detailPreview) {
+        const detailImages = Array.from(detailPreview.querySelectorAll(".detail-view__image"));
+        const detailBadge = detailPreview.querySelector(".detail-view__badge");
+
+        detailToggle.addEventListener("click", () => {
+          const showSelfie = detailPreview.dataset.state !== "selfie";
+          detailPreview.dataset.state = showSelfie ? "selfie" : "scene";
+
+          detailImages.forEach((image) => {
+            const isSelfie = image.classList.contains("detail-view__image--selfie");
+            const shouldShow = showSelfie ? isSelfie : !isSelfie;
+            image.classList.toggle("is-active", shouldShow);
+            image.setAttribute("aria-hidden", String(!shouldShow));
+          });
+
+          if (detailBadge) {
+            detailBadge.textContent = showSelfie ? "Selfie" : "Scene";
+          }
+
+          detailToggle.textContent = showSelfie ? "Show Scene" : "Show Selfie";
+          detailToggle.setAttribute("aria-pressed", String(showSelfie));
+          detailToggle.setAttribute(
+            "aria-label",
+            showSelfie ? "Show the scene capture" : "Show the selfie capture"
+          );
+        });
+      }
     </script>
   </body>
 </html>
